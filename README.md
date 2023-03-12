@@ -6,6 +6,7 @@ Personal repository for arch linux, containing the packages that I use most ofte
 
 1.  Open the file located at /etc/pacman.conf
 2.  Write at the end: 
+
 [custom-aur]
 
 SigLevel = Optional DatabaseOptional
